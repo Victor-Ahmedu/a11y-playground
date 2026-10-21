@@ -34,11 +34,3 @@ I tested all three using only the keyboard (Tab, Shift+Tab, Escape, arrows, Home
 5. **Animation and state hooks.**
    shadcn exposes `data-state="open|closed"` for CSS transitions and keeps
    content mounted long enough to animate out. Mine unmounts instantly.
-
-## What I did that shadcn does not hide from me
-[Write your own observation: for example, how much code the focus trap needed
-and what that taught you about why a tested primitive is worth using.]
-
-## Takeaway
-[One or two sentences in your own words: when you would hand-write a
-component versus when you would adopt a tested primitive.]
